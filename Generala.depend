@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1657508122 source:c:\users\ciroc\desktop\ciro\utn\laboratorio computación\generala\generala\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+	"desarrollo.h"
+
+1654132647 c:\users\ciroc\desktop\ciro\utn\laboratorio computación\generala\generala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657508359 c:\users\ciroc\desktop\ciro\utn\laboratorio computación\generala\generala\funciones.h
+
+1657508350 c:\users\ciroc\desktop\ciro\utn\laboratorio computación\generala\generala\desarrollo.h
+
+1657548304 source:c:\users\user\desktop\matías lab de programación\generala\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"rlutil.h"
+	"funciones.h"
+	"desarrollo.h"
+
+1657494616 c:\users\user\desktop\matías lab de programación\generala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657494616 c:\users\user\desktop\matías lab de programación\generala\funciones.h
+
+1657494616 c:\users\user\desktop\matías lab de programación\generala\desarrollo.h
+
